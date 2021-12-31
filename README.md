@@ -13,5 +13,6 @@ output of script:
 ![image](https://user-images.githubusercontent.com/39832806/147817047-147201bc-23eb-4ba4-83e6-6695b793c5d8.png)
 
 
-The script lists all files (not folders) with the size accurate to bytes.
+The script lists all files correctly (not folders) with the size accurate to bytes.
 The chosen filepath in the output can then be easily used as a search term to quickly get to the file for deletion.
+
