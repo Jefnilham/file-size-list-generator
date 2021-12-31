@@ -3,7 +3,7 @@
 A simple script to enumerate file directories and then sort the files from largest to smallest.
 This script was made to simplify the user in managing files especially deleting large unwanted files.
 
-I tested with tree command on windows cmd for this pre-made folder 'C:\walktest':
+I tested for the expected output using the tree command on windows cmd with a pre-made folder named 'C:\walktest':
 
 ![image](https://user-images.githubusercontent.com/39832806/147817410-732803eb-e4aa-4425-aa6b-7806821b727d.png)
 
