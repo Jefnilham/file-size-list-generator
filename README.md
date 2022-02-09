@@ -16,3 +16,4 @@ output of script:
 The script lists all files correctly (not folders) with the size accurate to bytes.
 The chosen filepath in the output can then be easily used as a search term to quickly get to the file for deletion.
 
+# file-size-list-generator
