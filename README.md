@@ -16,4 +16,7 @@ output of script:
 The script lists all files correctly (not folders) with the size accurate to bytes.
 The chosen filepath in the output can then be easily used as a search term to quickly get to the file for deletion.
 
-# file-size-list-generator
+# sort by file size according to given filepath.py
+
+Improved on the formatting so that it is easier to read.
+Improved on removing redundant repeated given file path by slicing it out. Makes it clear to users that it is a subfolder or subsubfolder or a file within that folder.
