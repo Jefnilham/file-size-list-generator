@@ -22,4 +22,5 @@ The chosen filepath in the output can then be easily used as a search term to qu
 - Improved on removing redundant repeated given file path by slicing it out. Makes it clear to users that it is a subfolder or subsubfolder or a file within that folder.
 For example, we can see that there is a subfolder 'Captures' within this 'Videos' folder below and the rest of the files that do not have 'Captures' are files in the 'Videos' folder.
 - changed units to MB for easier use
+
 ![image](https://user-images.githubusercontent.com/39832806/153185853-ed08ad1f-38f1-4ebe-aa37-28cad0a3d0ae.png)
