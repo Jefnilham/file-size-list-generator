@@ -21,4 +21,4 @@ The chosen filepath in the output can then be easily used as a search term to qu
 Improved on the formatting so that it is easier to read.
 Improved on removing redundant repeated given file path by slicing it out. Makes it clear to users that it is a subfolder or subsubfolder or a file within that folder.
 For example, we can see that there is a subfolder 'Captures' within this 'Videos' folder below and the rest of the files that do not have 'Captures' are files in the 'Videos' folder.
-![image](https://user-images.githubusercontent.com/39832806/153184926-f563c89b-9c7a-4603-af98-efae6f96cd07.png)
+![image](https://user-images.githubusercontent.com/39832806/153185104-d3c5371c-ce09-4d00-9a4d-12763ad69860.png)
