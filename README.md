@@ -16,6 +16,8 @@ output of script:
 The script lists all files correctly (not folders) with the size accurate to bytes.
 The chosen filepath in the output can then be easily used as a search term to quickly get to the file for deletion.
 
+
+
 # Added 'sort by file size according to given filepath.py'
 
 - Improved on the formatting so that it is easier to read.
@@ -24,3 +26,12 @@ For example, we can see that there is a subfolder 'Captures' within this 'Videos
 - changed units to MB for easier use
 
 ![image](https://user-images.githubusercontent.com/39832806/153185853-ed08ad1f-38f1-4ebe-aa37-28cad0a3d0ae.png)
+
+
+
+
+# Added 'listdir.py'
+
+- Program looks into the given directory and sorts the list of files by size
+- Program then looks at the subdirectories and their files
+- Limitations: Program cannot look at subsubdirectory at the moment
