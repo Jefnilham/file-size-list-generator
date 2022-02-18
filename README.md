@@ -30,7 +30,7 @@ For example, we can see that there is a subfolder 'Captures' within this 'Videos
 
 
 
-# Added 'listdir.py'
+# Added 'listdir.py' (not working now)
 
 - Program looks into the given directory and sorts the list of files by size
 - Program then looks at the subdirectories and their files
